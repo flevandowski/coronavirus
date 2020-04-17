@@ -1,2 +1,2 @@
 # coronavirus
-🦠 Aplicativo de orientações sobre o novo coronavírus (COVID-19)
+🦠 Aplicativo de orientações sobre o COVID-19
